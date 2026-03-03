@@ -8,7 +8,7 @@ By the end of 2026 lets upgrade this humble space to a fully functioning tech st
 # 🌐 Socials
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hans.malmefjall@gmail.com) 
 # 📊 Stats
-![Hans GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=HansMalm&theme=merko&show_icons=true)
+![Hans GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=HansMalm&theme=tokyonight&show_icons=true)
 
 <!--# 💫 About Me:
 Welcome to my shack! Here I have started to build my first projects toward becoming a system developer.<br>By the end of 2026 lets upgrade this humble space to a fully functioning tech stack house, indoor plumbing and all!
