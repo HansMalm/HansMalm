@@ -1,7 +1,7 @@
 ## Hans Malmefjäll 🤠
 
 Welcome to my shack! Here I have started to build my first projects toward becoming a system developer.
-By the end of 2026 lets upgrade this humble space to a fully functioning techstack house, indoor plumbing and all!
+By the end of 2026 lets upgrade this humble space to a fully functioning tech stack house, indoor plumbing and all!
 
 # 💻 Tech
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
