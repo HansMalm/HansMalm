@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hans Malmefjäll 🤠
+
+Welcome to my shack! Here I have started to build my first projects toward becoming a system developer.
+By the end of 2026 lets upgrade this humble space to a fully functioning techstack house, indoor plumbing and all!
+
+[![Hans GitHub stats](https://github-readme-stats.vercel.app/api?username=HansMalm&count_private=true&show_icons=true&theme=merko&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **HansMalm/HansMalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
